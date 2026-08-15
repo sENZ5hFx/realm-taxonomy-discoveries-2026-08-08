@@ -10,4 +10,12 @@ authors:
 repository-code: https://github.com/sENZ5hFx/realm-taxonomy-discoveries-2026-08-08
 url: https://github.com/sENZ5hFx/realm-taxonomy-discoveries-2026-08-08
 date-released: 2026-08-08
-abstract: Full Realm Taxonomy application: high-leverage meta-synthesis and cross-realm structural novelties, adversarial-vetted, zero-hallucination protocol. Session 2026-08-08
+version: 0.1.0
+license: SEE_LICENSE_FILE
+keywords:
+  - taxonomy
+  - knowledge synthesis
+  - cross-domain research
+  - structural analysis
+  - scientific discovery
+abstract: 'A repository documenting a taxonomy-based synthesis of cross-domain research findings.'
